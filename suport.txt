@@ -1,11 +1,3 @@
 Pentru suport:
-
-022 822 064:
-          butonul 1 - Registrul electronic al angajaților (REA) și SI „Planificarea salarială bugetară”;
-          butonul 2 - Cabinetul electronic al autorității/instituției bugetare (CEIB);
-          butonul 3 - SI „Trezoreria” din cadrul SIEB;
-          butonul 4 - SI „Raportarea financiară”.
-
-022 822 061:
-
-          butonul 1 - Modulul „Planificarea bugetară” (SIMF/BPS), e-Alocații (GAB);
+022 822 064-   SI REA,SI „Planificarea salarială bugetară”;SI CEIB);SI „Trezoreria”;SI „Raportarea financiară”.
+022 822 061-   SI „Planificarea bugetară” (SIMF/BPS), e-Alocații (GAB);
